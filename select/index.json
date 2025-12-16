@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "へっくしゅん",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-16T16:11:29.516134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "へっくしゅん",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_へっくしゅん_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "へっくしゅん",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_へっくしゅん_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "へっくしゅん - Hekkushun",
+      "artist": "Radwimps",
+      "has_synced": false,
+      "path": "select/03_へっくしゅん_-_Hekkushun_Radwimps.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "へっくしゅん",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_へっくしゅん_RADWIMPS.txt"
+    }
+  ]
+}
